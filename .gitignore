@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+
+/ch2/build/
+/ch2/input/
+
+
 # Compiled Object files
 *.slo
 *.lo
